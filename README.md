@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with working experience in Java, Angular, Spring Boot, SQL, Scrum, and Git.<br>Good knowledge of Python, Machine Learning, Data Analysis, and Academic Research. <br>B.S. in Computer Science and an M.S. in Information Engineering.<br>Ph.D. Candidate in Computer Science.<br><br>
+Full Stack Developer with working experience in Java, Angular, Spring Boot, SQL, Scrum, and Git.<br>Good knowledge of Python, Machine Learning, Data Analysis, and Academic Research. <br>B.S. in Computer Science and an M.S. in Information Engineering.<br>Ph.D. in Computer Science.<br><br>
 
 
 ## 🌐 Socials:
